@@ -21,3 +21,7 @@ build.min.js
 
 # Config files
 config.json
+
+# Phaser files
+phaser.js
+phaser.min.js
