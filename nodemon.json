@@ -1,0 +1,12 @@
+{
+  "watch": [
+    "src/static/**/*"
+  ],
+  "ignore": [
+    "src/static/js/build.min.js"
+  ],
+  "events": {
+    "restart": "npm run build -- --js-path=src/static/js --config=./config.json",
+    "start": "npm run build -- --js-path=src/static/js --config=./config.json"
+  }
+}

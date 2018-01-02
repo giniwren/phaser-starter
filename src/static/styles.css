@@ -1,0 +1,9 @@
+body {
+    background-color: #000;
+    margin: 0;
+}
+
+#game-container canvas {
+  border: 1px dashed #222;
+  margin: 20px auto;
+}

@@ -1,0 +1,9 @@
+{
+  "images": [{
+    "name": "background",
+    "path": "img/background.png"
+  }, {
+    "name": "dude",
+    "path": "img/dude.png"
+  }]
+}

@@ -1,0 +1,23 @@
+# osx
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# nodejs npm modules
+/node_modules
+
+# sublime
+.jshintrc
+
+# Build files
+/build/*
+build.min.js
+
+# Config files
+config.json
