@@ -1,0 +1,12 @@
+{
+  "jsFiles": [
+    "loaders/loaders.js",
+    "loaders/asset-loader.js",
+    "game/intro.js",
+    "game/config.js",
+    "game/states/boot.js",
+    "game/states/play.js",
+    "game/post-states.js",
+    "game/outro.js"
+  ]
+}
